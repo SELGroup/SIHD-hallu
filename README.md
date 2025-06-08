@@ -16,11 +16,11 @@ This repository contains the code implementation for the paper *"Detecting Hallu
 │   ├── eval_utils.py  
 │   ├── main.py  
 │   ├── o1_data.py  
-│   ├── run_record/  
+│   ├── run_record/ (to be created) 
 │   └── utils.py  
 └── sentence_structural_entropy/  
     ├── analyze_results.py  
-    ├── run_record/  
+    ├── run_record/  (to be created)
     ├── sample_answers.py  
     ├── src/  
     └── uncertainty_quantification.py  
