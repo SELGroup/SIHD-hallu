@@ -1,0 +1,23 @@
+== Data purpose ==
+
+There is one file containing the data:
+ - training11b.json
+
+
+The file contains the data of the first ten editions of the challenge: 4719 questions [1] with their relevant documents, snippets, concepts and RDF triples, exact and ideal answers.
+For more information about the format of the data as well as the instructions for participating at BioASQ please consult: http://participants-area.bioasq.org/general_information/Task11b/
+
+Differences with BioASQ-training10b.json 
+	- 485 new questions added from BioASQ10
+		- The question with id 621ecf1a3a8413c653000061 had identical body with 5ac0a36f19833b0d7b000002. All relevant elements from both questions are available in the merged question with id 5ac0a36f19833b0d7b000002.
+
+		
+== Citing BioASQ ==
+When using this data please cite our work:
+
+Anastasia Krithara, Anastasios Nentidis, Konstantinos Bougiatiotis, Georgios Paliouras. BioASQ-QA: A manually curated corpus for Biomedical Question Answering. bioRxiv 2022.12.14.520213; doi: https://doi.org/10.1101/2022.12.14.520213
+
+
+Fore more information about the challenge, the organisers and the relevant publications please visit: http://bioasq.org/
+
+[1] The distribution of 4719 questions : 1417 factoid, 1271 yesno, 1130 summary, 901 list
