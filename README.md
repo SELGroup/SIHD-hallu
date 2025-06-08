@@ -1,4 +1,4 @@
-# **SIHD Project Documentation**  
+# **Detecting Hallucinations in Large Language Models via Structural Entropy**  
 
 ## **Project Overview**  
 This repository contains the code implementation for the paper *"Detecting Hallucinations in Large Language Models via Structural Entropy"*, which aims to detect hallucinated content in LLM-generated text. The project consists of two main modules:  
