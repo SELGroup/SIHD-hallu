@@ -109,6 +109,7 @@ If you use this code or findings in your research, please cite our paper:
 @article{xingtaozhaoSIHD2025,
   title={Detecting Hallucinations in Large Language Models via Structural Entropy},
   author={Xingtao Zhao,Hao Peng,Jiecong Wang,Dingli Su,Angsheng Li,Xiaoyan Yu,Philip S. Yu and Shengxiang Gao},
+  journal={submitting to Nature Machine Intelligence}
   year={2025},
 }
 ```
