@@ -106,7 +106,7 @@ The `run_record/` folders in both modules store intermediate outputs (charts, me
 ## **Citation**  
 If you use this code or findings in your research, please cite our paper:  
 ```bibtex
-@article{SIHD2025,
+@article{xingtaozhaoSIHD2025,
   title={Detecting Hallucinations in Large Language Models via Structural Entropy},
   author={Xingtao Zhao,Hao Peng,Jiecong Wang,Dingli Su,Angsheng Li,Xiaoyan Yu,Philip S. Yu and Shengxiang Gao},
   year={2025},
