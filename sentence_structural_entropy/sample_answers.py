@@ -67,7 +67,7 @@ class ExperimentRunner:
         metric = utils.get_metric(self.args.metric)
 
         for i in range(num_generations):
-            temp = 0.1 if i == 0 else self.args.temperature
+            temp = 0 if i == 0 else self.args.temperature
             answer, logprobs, emb = self.model.predict(prompt, temp)
             emb = emb.cpu() if emb is not None else None
             self.logger.info(f"temp:{temp},Answer: {answer}")
