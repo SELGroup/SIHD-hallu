@@ -13,7 +13,6 @@ This repository contains the code implementation for the paper *"Detecting Hallu
 ├── long_form_structural_entropy/  
 │   ├── DeepSeek_R1_data.py  
 │   ├── HCSE.py  
-│   ├── eval_utils.py  
 │   ├── main.py  
 │   ├── o1_data.py  
 │   ├── run_record/ (to be created) 
