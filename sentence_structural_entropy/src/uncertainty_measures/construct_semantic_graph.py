@@ -324,8 +324,8 @@ def compute_entailment_scores(
 def get_semantic_clusters(
     strings_list: List[str],
     question: str,
-    similarity_threshold: float = 0.5,
-    w_entail: float = 0.5,
+    similarity_threshold: float = 0.3,
+    w_entail: float = 0.65,
 ) -> Tuple[List[int], List[str]]:
     if not strings_list:
         raise ValueError("strings_list cannot be empty")
