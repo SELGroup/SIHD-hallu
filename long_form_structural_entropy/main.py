@@ -29,10 +29,7 @@ logger = logging.getLogger(__name__)
 
 
 MAX_TOKENS_BIO = 600
-client = OpenAI(
-    base_url="",
-    api_key="",
-)
+client = OpenAI(api_key=os.environ['OPENAI_API_KEY'])
 
 
 class EmptyResponseError(Exception):
