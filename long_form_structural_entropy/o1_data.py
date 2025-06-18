@@ -12,3 +12,5 @@
 # Each claim is manually verified and labeled as true or false.
 # Statistical analysis reveals 41 false claims in OpenAI-o1-WikiBioFacts and 31 in DeepSeek-R1-WikiBioFacts.
 # We apply hallucination detection methods to identify erroneous claims, though some inaccuracies may not be confabulations.
+
+# After our article is accepted, we will release the complete dataset. If you need the complete dataset before then, please contact me via email at xtaozhao@163.com.
