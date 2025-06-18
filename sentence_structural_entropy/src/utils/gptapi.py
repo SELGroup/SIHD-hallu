@@ -10,10 +10,7 @@ from openai import OpenAI
 
 
 # Initialize OpenAI client with proxy configuration
-CLIENT = OpenAI(
-    base_url="URL",
-    api_key="Your-OpenAI-API-Key",
-)
+CLIENT = OpenAI(api_key=os.environ['OPENAI_API_KEY'])
 
 
 class KeyError(Exception):
